@@ -22,6 +22,12 @@ You can reach me at [shaimievaalinas@gmail.com] or on [LinkedIn](https://www.lin
 Thanks for checking out my profile!
 
 
+[![codewars](https://www.codewars.com/users/alicefarron/badges/large)](https://www.codewars.com/users/alicefarron)   
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alicefarron&theme=dark)](https://github.com/alicefarron/leetcode-stats)
+
+
+
 <!--
 **alicefarron/alicefarron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
