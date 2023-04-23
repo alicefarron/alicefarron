@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/> <br>
-  # Hi there, I'm Alina 👋
+  <h2> Hi there, I'm Alina 👋 </h2>
 </div>
 
 
